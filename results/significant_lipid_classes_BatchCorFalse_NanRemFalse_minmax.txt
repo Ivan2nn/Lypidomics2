@@ -9,6 +9,7 @@ LPE
 LPG
 LPI
 LPS
+MAG
 PC
 PE
 PG
