@@ -1,0 +1,86 @@
+1 or 3-Methyl-Histidine.1
+2'-O-Methyl Guanosine.1
+2-Hydroxyglutarate.1
+2/3-Phosphoglyceric acid.2
+3-Hydroxyisovaleryl Carnitine
+3-Hydroxyoleoylcarnitine
+3-Indolebutyric acid.1
+ADP.1
+ATP.1
+Acetylcholine.1
+Adenosine.1
+Adipoylcarnitine
+Anserine.1
+Arachidonyl carnitine
+Argininosuccinic acid.1
+Ascorbic acid.1
+Benzoic acid
+Citraconic acid.1
+Citrulline.1
+Cystathionine.1
+Cytidine.1
+D-Xylulose/Ribose/Ribulose-5-phosphate.1
+Deoxyinosine.1
+FAD
+Fumaric acid.1
+G6P.1
+GMP.1
+GTP.1
+Glutamic acid.1
+Glutathione.1
+Homoarginine.1
+Hypoxanthine.1
+IMP.1
+Imidazole.1
+Inosine.1
+Isocitric_Citric_acid.1
+Isovalerylcarnitine (C5).1
+Kynurenine.1
+L-Acetylcarnitine (C2).1
+L-Arginine.1
+L-Carnitine (C0)
+L-Homoserine.1
+L-Lactic acid.1
+L-Lysine.1
+L-Methionine.1
+L-Palmitoylcarnitine (C16).1
+L-Valine.1
+Leucine.2
+Linoleylcarnitine
+Maleic acid.1
+Malic acid.1
+Malonylcarnitine
+Mevalonic acid.1
+N-Aceryltyrosine.1
+N-Acetyl-aspartyl-glutamate.1
+N-Acetyl-glucosamine.1
+N-Acetylneuraminate.1
+N-acetylornithine.1
+N2,N2-Dimethylguanosine.1
+N4- Acetyl Cytidine.1
+NAD
+NADH
+NADP
+Nicotinamide.1
+Octadecanoylcarnitine
+Oleoylcarnitine
+Ornithine.1
+Phenylglyoxylic acid/Hydrocinnamic acid
+Phosphoenolpyruvate.1
+Proline.1
+Propionylcarnitine (C3).1
+Sedoheptulose 7-phosphate.1
+Serine.1
+Taurine.1
+Threonic acid.1
+Thymidine.1
+Thymine.1
+UDP-N-acetyl-glucosamine
+UDP.1
+Uracil.1
+Ureidosuccinic acid.1
+Uridine.1
+Xanthine.1
+Xanthurenic Acid.1
+dGDP.1
+glutathione disulfide_pos
