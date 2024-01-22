@@ -1,0 +1,3 @@
+,metabolite,n_control,n_treated,p_ttest,p_ranksum,upregulated
+50,D-Ribulose-5-phosphate,10,10,0.42206872619809677,0.04125001659393949,False
+160,sn-glycerol-3-phosphate.1,10,10,0.008233777617911766,0.01016520189195626,False
