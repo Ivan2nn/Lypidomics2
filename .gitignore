@@ -1,0 +1,7 @@
+/data/*
+!/data/raw_data.xlsx
+!/data/paths.json
+!/data/2023_12_laezza_deltamethrin_metabolomics.xlsx
+!/data/2022_12_Laezza_Bernabucci_Mouse_Brain_COMBINED_METABOLOMICS.xlsx
+/results/
+/documents/
